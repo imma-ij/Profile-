@@ -1,7 +1,6 @@
 *{
-    background-color: gray;
-    font-family: Verdana; 
-    
+    background-color: lightblue;
+    font-family: Verdana;
 }
 
 h1{ font-size: larger;
@@ -21,10 +20,11 @@ h2{
 .about {
     text-align: center;
 }
-.skills{
+.skills {
     text-align: center;
 }
-.img{
+
+img {
     text-align: center;
     border-radius: 50%;
 }
