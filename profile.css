@@ -26,4 +26,6 @@ h2{
 }
 .emoji{
     text-align: center;
+    border-radius: 50%;
+    
 }
