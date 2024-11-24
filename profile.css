@@ -1,7 +1,10 @@
 *{
     background-color: black;
-    font-family: Verdana;
+    font-family: Verdana; 
+    
 }
+
 h1{ font-size: large;
     font-style: normal;
+    color: white;
 }
