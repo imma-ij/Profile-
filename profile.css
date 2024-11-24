@@ -6,15 +6,24 @@
 
 h1{ font-size: larger;
     color: black;
+    text-align: center;
 }
 .navbar {
+    background-color: antiquewhite;
     text-align: right;
     color:white;
-    overflow: hidden;
     float: right;
     padding: 0%;
 }
+h2{
+    text-align: center;
+}
 .about {
     text-align: center;
-
+}
+.skills{
+    text-align: center;
+}
+.emoji{
+    text-align: center;
 }
