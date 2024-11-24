@@ -4,8 +4,7 @@
     
 }
 
-h1{ font-size: large;
-    font-style: normal;
+h1{ font-size: larger;
     color: black;
 }
 .navbar {
@@ -14,4 +13,8 @@ h1{ font-size: large;
     overflow: hidden;
     float: right;
     padding: 0%;
+}
+.about {
+    text-align: center;
+
 }
