@@ -1,9 +1,11 @@
 *{
     background-color: lightblue;
     font-family: Verdana;
+    text-align: center;
+    
 }
 
-h1{ font-size: larger;
+h1{ font-size: l;
     color: black;
     text-align: center;
 }
@@ -21,10 +23,10 @@ h2{
     text-align: center;
 }
 .skills {
-    text-align: center;
+    text-align: right;
 }
 
 img {
-    text-align: center;
+    align-items: center;
     border-radius: 50%;
 }
